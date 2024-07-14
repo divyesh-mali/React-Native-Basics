@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Note
 I've divided each topic in different folders. In each folder there is a file which you've to place in index.js's app registry.
-For eg : AppRegistry.registerComponent(appName, () => ComponentStyles); 
+>For eg : AppRegistry.registerComponent(appName, () => ComponentStyles); 
 Here, 'ComponentStyles' is the main entry point file to test and see the implementation of that particular topic in React Native.
 
 
