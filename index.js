@@ -13,5 +13,6 @@ import UseStateDemo from './useState/UseStateDemo';
 import textView from './uiComponents/textView';
 import inputText from './uiComponents/inputText';
 import imageView from './uiComponents/imageView';
+import touchableOpacity from './Touchable Opacity/touchableOpacity';
 
-AppRegistry.registerComponent(appName, () => imageView); // This basically decides which page to run when the app is started initially
+AppRegistry.registerComponent(appName, () => touchableOpacity); // This basically decides which page to run when the app is started initially
